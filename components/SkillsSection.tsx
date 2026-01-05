@@ -136,9 +136,7 @@ export default function SkillsSection() {
                         alt={skill.name}
                         className="w-full h-full object-contain"
                         onError={(e) => {
-                          // Fallback to a simple text if image fails to load
                           e.currentTarget.style.display = 'none';
-                          e.currentTarget.nextElementSibling.style.display = 'flex';
                         }}
                       />
                       <div className="w-full h-full bg-gray-600 rounded-lg flex items-center justify-center text-white font-bold text-xs hidden">
