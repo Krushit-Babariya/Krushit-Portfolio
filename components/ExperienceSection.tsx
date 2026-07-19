@@ -71,24 +71,24 @@ export default function ExperienceSection() {
       ],
       technologies: ['Java', 'Spring', 'Spring MVC', 'Spring Boot', 'React', 'MySQL', 'Oracle']
     },
-    // {
-    //   title: 'Sofware Engineer Trainee',
-    //   company: 'Narola Infotech',
-    //   location: 'Surat, Gujarat',
-    //   period: 'Jan 2025 - Jun 2025',
-    //   type: 'Internship',
-    //   description: ' Worked as a Java Developer Intern, gain experience in Java, Advance Java Technologies. Developed backend applications, working closely with product managers and designers to deliver high-quality user experiences.',
-    //   achievements: [
-    //     'Built a real-time e-shipping platform',
-    //     'Designed and implemented RESTful APIs'
-    //   ],
-    //   technologies: ['Java', 'Spring boot', 'React', 'MySQL', 'PostgreSQL']
-    // },
+    {
+      title: 'Sofware Engineer Trainee',
+      company: 'Narola Infotech',
+      location: 'Surat, Gujarat',
+      period: 'Jan 2025 - Jun 2025',
+      type: 'Internship',
+      description: ' Worked as a Java Developer Intern, gain experience in Java, Advance Java Technologies. Developed backend applications, working closely with product managers and designers to deliver high-quality user experiences.',
+      achievements: [
+        'Built a real-time e-shipping platform',
+        'Designed and implemented RESTful APIs'
+      ],
+      technologies: ['Java', 'Spring boot', 'React', 'MySQL', 'PostgreSQL']
+    },
     {
       title: 'Sofware Engineer',
       company: 'Elite Core Web Solutions',
       location: 'Surat, Gujarat',
-      period: 'May 2025 - Jun 2025',
+      period: 'Jan 2024 - Dec 2024',
       type: 'Part Time',
       description: 'Developed and enhanced features for a logistics-based application using Java, Spring, and Spring Boot. Collaborated on frontend development using JavaScript frameworks and contributed to the implementation of business requirements.',
       achievements: [
